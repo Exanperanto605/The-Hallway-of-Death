@@ -1,6 +1,6 @@
 # The-Hallway-of-Death
 > [!NOTE]
-> This README document is yet to be completed. Expect the missing/omitted information.
+> This README document is yet to be completed. Expect the missing/omitted information and the recurrence of placeholders in this document.
 
 ## Project Overview
 "The-Hallway-of-Death" is a work-in-progress side-scrolling survival shooter developed with Unity.
