@@ -9,6 +9,6 @@ itch.io link for installation: N/A
 Team Name: Placeholder Text 
 
 | Username | Full Name | ID | Role | Email |
-| ------------- |:-------------:| -----:| -----:| -----:|
+| ------------- |-------------| -----| -----| -----|
 | Exanperanto605 | Saksit Wetwitayaklang | 66070501054 | Head Developer | saksit.wetw@kmutt.ac.th |
 | | | | | |
