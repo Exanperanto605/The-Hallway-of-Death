@@ -1,2 +1,2 @@
 # The-Hallway-of-Death
-A work-in-progress casual side-scrolling survival shooter developed as a university project.
+"The-Hallway-of-Death" is a work-in-progress casual side-scrolling survival shooter developed as a university project.
